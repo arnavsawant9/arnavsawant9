@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, DSA, blockchain**
 
-- 📫 How to reach me **arnavsawant2004@gmail.com**
+- 📫 How to reach me **arnav.sawantbhosale@gmail.com**
 
 - ⚡ Fun fact **Competitive programming has been around since 1970, starting with the ICPC. Today, it involves over 50,000 students from 3,000+ universities in 111 countries!**
 
