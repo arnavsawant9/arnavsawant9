@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/heyarnavsawant" target="blank"><img src="https://img.shields.io/twitter/follow/heyarnavsawant?logo=twitter&style=for-the-badge" alt="heyarnavsawant" /></a> </p>
 
-- 🔭 I’m currently working on **JobPortal**
+- 🔭 I’m currently working on **Employee Management System**
 
 - 🌱 I’m currently learning **Solidity.js, React.js, Core-Java**
 
